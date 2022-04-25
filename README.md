@@ -1,4 +1,4 @@
 # uvv_bd_1_si1n
-Aluno: Gabriel Negreiros Coradine
-<br>Turma: SI1N<br>
+<p>Aluno: Gabriel Negreiros Coradine<p>
+<p>Turma: SI1N<p>
 <p>Matéria: Banco de dados<p>
